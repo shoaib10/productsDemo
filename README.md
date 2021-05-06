@@ -1,3 +1,3 @@
 # productsDemo
-# npm install
-# npm run serve
+1) npm install
+2) npm run serve
